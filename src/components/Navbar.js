@@ -17,7 +17,7 @@ const Navbar = () => {
             <Link to="/prediction" className="navbar-link">Quality of Life Prediction</Link>
           </li>
           <li className="navbar-item">
-            <Link to="/about" className="navbar-link">Dash Board</Link>
+            <Link to="/about" className="navbar-link">Dashboard</Link>
           </li>
         </ul>
       </nav>
